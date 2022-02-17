@@ -1,0 +1,4 @@
+write("sum iof square of given number)
+read(n1, n2, n3)
+write (n1**2 + n2**2 + n3**2)
+
