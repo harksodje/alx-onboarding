@@ -1,0 +1,9 @@
+sum = 0
+input (n1, n2 n3)
+while True
+	for i in input
+		if i is not negative
+			sum = sum + 1
+		else
+			write(sum)
+	break
